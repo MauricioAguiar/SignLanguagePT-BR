@@ -35,7 +35,8 @@ The model is built using a Sequential architecture, combining LSTM layers for te
 
 This architecture ensures effective learning of temporal dependencies in the gesture data.
 
-![Model Summary](ref_img/summary.png)
+![Model Summary](ref_img/Summary.png)
+
 *Model summary showing total parameters, trainable parameters, and non-trainable parameters.*
 
 ### Training Progress
